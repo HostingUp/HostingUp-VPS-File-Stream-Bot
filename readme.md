@@ -95,11 +95,6 @@ Thank you for your interest in this project, and we appreciate your understandin
 hdocker https://github.com/HostingUp/HostingUp-VPS-File-Stream-Bot PORT_NUMBER
 ```
 [![Deploy](https://hostingup.in/logo-white.svg)](https://hpanel.hostingup.in/store/special-bot-hostings/special-tg-business-plan)
-
-
-and to stop the whole bot,
- do <kbd>CTRL</kbd>+<kbd>C</kbd>
-
  </details>
 </details>
 <details>
