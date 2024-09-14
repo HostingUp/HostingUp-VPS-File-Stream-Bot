@@ -89,19 +89,12 @@ Thank you for your interest in this project, and we appreciate your understandin
 
   </details>
   <details>
-  <summary><b>Deploy on Windows or other plataform<b></summary>
-  
-  You should make sure you have Python 3.6+ installed on your PC, then clone this repo and run the following commands in a terminal:
+  <summary><b>Deploy on HostingUp VPS plataform<b></summary>
 
 ```py
-git clone https://github.com/biisal/biisal-file-stream-pro
-cd filestreambot-pro
-virtualenv -p /usr/bin/python3 venv
-. ./venv/bin/activate
-pip install -r requirements.txt
-python3 -m biisal
+hdocker https://github.com/HostingUp/HostingUp-VPS-File-Stream-Bot PORT_NUMBER
 ```
-
+[![Deploy](https://hostingup.in/logo-white.svg)](https://hpanel.hostingup.in/store/special-bot-hostings/special-tg-business-plan)
 
 
 and to stop the whole bot,
